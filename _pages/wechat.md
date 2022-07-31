@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
 permalink: /wechat/
+title: WeChat
+description: Details for my WeChat account
+nav: false
 ---
 
 ## My WeChat ID
