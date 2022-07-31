@@ -6,7 +6,7 @@ description: Details for my WeChat account
 nav: false
 ---
 
-## My WeChat ID
+## My WeChat ID:
 
 williamzcy_0407
 
@@ -14,7 +14,7 @@ williamzcy_0407
 
 Welcome to simply scan the code and add me via WeChat!
 
-![wechat_qr_code](/assets/img/wechat_qr.jpg)
+![wechat_qr_code](/assets/img/wechat_qr.jpg){: width="300" }
 
 
     
