@@ -2,15 +2,15 @@
 layout: page
 permalink: /wechat/
 title: WeChat
-description: Details for my WeChat account
+description: Details for my WeChat account.
 nav: false
 ---
 
-## My WeChat ID:
+### My WeChat ID:
 
 williamzcy_0407
 
-## My WeChat QR Code
+### My WeChat QR Code
 
 Welcome to simply scan the code and add me via WeChat!
 
