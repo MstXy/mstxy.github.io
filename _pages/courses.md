@@ -37,7 +37,7 @@ CSCI-SHU 375: Reinforcement Learning
 
 SOCSC-UH 3220:	Econometrics
 
-   
+<br>
 
 ### Interactive Media Arts
 
