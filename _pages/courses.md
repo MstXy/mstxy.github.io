@@ -19,7 +19,7 @@ MATH-SHU 235: Probability and Statistics
 
 MATH-UA 253: Linear and Nonlinear Optimization
 
-   
+<br>
 
 CSCI-SHU 101: Intro to Computer Science
 
@@ -33,7 +33,7 @@ CS-UY 4613: Artificial Intelligence
 
 CSCI-SHU 375: Reinforcement Learning
 
-   
+<br>
 
 SOCSC-UH 3220:	Econometrics
 
@@ -55,7 +55,7 @@ IM-UH 2318: Decoding Nature
 
 IM-UH 3312:	A.rt I.ntel
 
-   
+<br>
 
 ### General
 
@@ -68,3 +68,5 @@ BUSOR-UH 1009: Ethics, Technology, Business
 PSYCH-UA 1: Intro to Psychology
 
 CCSF-SHU 123: Contemporary Chinese Political Thought
+
+<br>
