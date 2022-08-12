@@ -2,7 +2,7 @@
 layout: page
 title: KardBoard Kit
 description: An inclusice gaming keyboard kit
-img: assets/img/kardboard/overview2.jpg
+img: assets/img/kardboard/overview2.png
 importance: 1
 category: Product Design
 ---
@@ -190,4 +190,4 @@ By only listening to our voices and the subtitles, you should get a clear idea o
 
 #### The Presentation Slides:
 
-[Pitch slides](https://app.pitch.com/app/presentation/b467a12d-f09e-4fb2-a016-11f234ae55e8/aa9babf4-0ab1-4697-82c2-68d321ece467), [pdf version](/assets/pdf/KardBoard_Kit_Final_Pitch.pdf) 
+[Pitch slides](https://app.pitch.com/app/presentation/b467a12d-f09e-4fb2-a016-11f234ae55e8/aa9babf4-0ab1-4697-82c2-68d321ece467), <a href="/assets/pdf/KardBoard_Kit_Final_Pitch.pdf" target="_blank">Jekyll</a>
