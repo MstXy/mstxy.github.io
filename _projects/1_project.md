@@ -1,80 +1,120 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: SoundBox
+description: A 'useless' product design
+img: assets/img/soundbox/preview.png
 importance: 1
-category: work
+category: Product Design
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+April, 2020
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**SoundBox** is a multi-functional device. It is a **bluetooth volume controller**, a **portable speaker**, an **emergency charger** and an accessory that could be a **pin**, a **pedant** or a **bracelet**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/front.png" title="SoundBox" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Top view of SoundBox.
 </div>
+
+**SoundBox** connects to your phone using bluetooth. By lightly tapping the haptic buttons on top of it, you can control the volume of your wireless earbuds, or generally, the volume of your phone. 
+
+The idea of designing **SoundBox** is based on the current trend of wireless earbuds. While they make our life much easier and portable by reducing the wire of the earphone, most of them *do not* have a volume controlling feature, meaning we still have to reach to our pockets, find the volume button on the side of our phone and press it. **SoundBox** aims to tackle this problem, but as an "useless" product, it tackles the problem in an unique way: creating *another* device to solve this inconvenience. (Of course, it creates possibly even more inconvenience such as charging, connecting or even remmembering each day to bring it with us.)
+
+Apart from the "useless" theme, **SoundBox** is designed to be multi-functional. Sometimes we just do not want to listen to the music in our earbuds, we want to play it out loud and feel the vibration. **SoundBox** does exactly that, with the two stereo speakers at both sides.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/Side View.png" title="side_view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Check the two large speakers at the sides.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Moreover, nowadays we are having so many things to charge: smart watch, wireless earbuds, phone, tablet, tablet pencil... A portable device that could serve as an emergency charger is the best solution to emergency battery issues. **SoundBox** could output its own battery charge and charge your device in no time.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/typec.png" title="type_c_port" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Remove the rubber cover, the Type-C port connects to either a power source or a dying device.
 </div>
 
+Omnipotent as it is, I mentioned that we could easily forget to bring **SoundBox** with us. So, we have added the accessory feature to it. Not just one accessory, but three. **SoundBox** could be a **pin**, a **pedant** or a **bracelet**. Check it below:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**pin**:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/pin.png" title="pin_form" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/breastpin_render.png" title="pin_use" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/removable.png" title="removable_pin_base" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The pin base is also removable to fit different uses.
+</div>
+
+**pedant**:
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/Copper.png" title="pedant_form" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/pedant_render.png" title="pedant_use" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+**bracelet**:
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/Bracelet.png" title="bracelet_form" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/bracelet_render2.png" title="bracelet_use" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Lastly, to fit different user groups, we have three color/material choices:
+
+**Classic Gold** / Stainless Steel
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/Copper.png" title="copper" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+**Sporty Red** / PP Plastic
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/Plastic.png" title="plastic" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+**Retro Wood** / Red Oak Wood
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/soundbox/Wood.png" title="wood" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+And that's **SoundBox**, hope you like it!
+
