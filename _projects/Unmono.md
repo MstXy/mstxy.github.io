@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Unmono.
-description: A toy designed for "Isolation"
-img: assets/img/unmono_logo.jpg
+description: A toy designed for "Isolation".
+img: assets/img/unmono_logo.png
 redirect: https://wp.nyu.edu/williamzhang/2021/05/12/week-014-project-04-isolation-toy/
 importance: 2
 category: Product Design

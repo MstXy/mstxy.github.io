@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KardBoard Kit
-description: An inclusice gaming keyboard kit
+description: An inclusice gaming keyboard kit.
 img: assets/img/kardboard/overview2.png
 importance: 1
 category: Product Design
