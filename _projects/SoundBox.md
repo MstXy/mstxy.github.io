@@ -3,7 +3,7 @@ layout: page
 title: SoundBox
 description: A 'useless' product design
 img: assets/img/soundbox/preview.png
-importance: 2
+importance: 3
 category: Product Design
 ---
 
