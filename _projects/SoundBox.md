@@ -3,11 +3,11 @@ layout: page
 title: SoundBox
 description: A 'useless' product design
 img: assets/img/soundbox/preview.png
-importance: 1
+importance: 2
 category: Product Design
 ---
 
-April, 2020
+October, 2020
 
 **SoundBox** is a multi-functional device. It is a **bluetooth volume controller**, a **portable speaker**, an **emergency charger** and an accessory that could be a **pin**, a **pendant** or a **bracelet**.
 
