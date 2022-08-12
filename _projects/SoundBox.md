@@ -9,6 +9,8 @@ category: Product Design
 
 October, 2020
 
+<br>
+
 **SoundBox** is a multi-functional device. It is a **bluetooth volume controller**, a **portable speaker**, an **emergency charger** and an accessory that could be a **pin**, a **pendant** or a **bracelet**.
 
 <div class="row">
