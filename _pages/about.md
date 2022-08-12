@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 张成瑜. Make your own future.
+subtitle: 张成瑜. Making my own future.
 
 profile:
   align: right

@@ -9,7 +9,7 @@ category: Product Design
 
 April, 2020
 
-**SoundBox** is a multi-functional device. It is a **bluetooth volume controller**, a **portable speaker**, an **emergency charger** and an accessory that could be a **pin**, a **pedant** or a **bracelet**.
+**SoundBox** is a multi-functional device. It is a **bluetooth volume controller**, a **portable speaker**, an **emergency charger** and an accessory that could be a **pin**, a **pendant** or a **bracelet**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,7 +46,7 @@ Moreover, nowadays we are having so many things to charge: smart watch, wireless
     Remove the rubber cover, the Type-C port connects to either a power source or a dying device.
 </div>
 
-Omnipotent as it is, I mentioned that we could easily forget to bring **SoundBox** with us. So, we have added the accessory feature to it. Not just one accessory, but three. **SoundBox** could be a **pin**, a **pedant** or a **bracelet**. Check it below:
+Omnipotent as it is, I mentioned that we could easily forget to bring **SoundBox** with us. So, we have added the accessory feature to it. Not just one accessory, but three. **SoundBox** could be a **pin**, a **pendant** or a **bracelet**. Check it below:
 
 **pin**:
 
@@ -68,14 +68,14 @@ Omnipotent as it is, I mentioned that we could easily forget to bring **SoundBox
     The pin base is also removable to fit different uses.
 </div>
 
-**pedant**:
+**pendant**:
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/soundbox/Copper.png" title="pedant_form" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/Copper.png" title="pendant_form" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/soundbox/pedant_render.png" title="pedant_use" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/pendant_render.png" title="pendant_use" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -112,7 +112,7 @@ Lastly, to fit different user groups, we have three color/material choices:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/soundbox/Wood.png" title="wood" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/soundbox/wood.png" title="wood" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
