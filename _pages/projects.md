@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 2
-display_categories: [Product Design, fun]
+display_categories: [Product Design, Miscellaneous, Web-based]
 horizontal: false
 ---
 
