@@ -14,7 +14,7 @@ December, 2019
 
 **Music Treadmill**
 
-Please see https://github.com/MstXy/Music-Treadmill/ for more details.
+Please see [https://github.com/MstXy/Music-Treadmill/] for more details.
 
 Thank you!
 

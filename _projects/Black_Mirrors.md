@@ -3,7 +3,7 @@ layout: page
 title: Black Mirrors
 description: An interactive video project on excessive screen time.
 img: assets/img/black_mirrors.png
-importance: 3
+importance: 4
 category: Web-based
 ---
 

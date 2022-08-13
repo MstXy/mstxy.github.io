@@ -14,7 +14,7 @@ October, 2019
 
 **The Soundscape**
 
-Please see https://github.com/MstXy/The-Soundscape/ for more details.
+Please see [https://github.com/MstXy/The-Soundscape/] for more details.
 
 Thank you!
 
