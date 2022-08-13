@@ -19,8 +19,9 @@ For better illustration, please refer to the video walkthrough of this project.
 
 <iframe width="796" height="448" src="https://www.youtube.com/embed/VXQ6aiAm7HE" title="Black Mirrors video walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
-For this project, we have several obstructions, inspired from . One of our obstructions is to “Always shoot through a mirror”, we interpreted it as Black Mirror. And our SPACE obstruction is “Forest”, so we interpreted it as repeating things – things that happen to everybody – staring at screens everyday.
+For this project, we have several obstructions, inspired from [The Five Obstructions](https://en.wikipedia.org/wiki/The_Five_Obstructions). One of our obstructions is to “Always shoot through a mirror”, we interpreted it as Black Mirror. And our SPACE obstruction is “Forest”, so we interpreted it as repeating things – things that happen to everybody – staring at screens everyday.
 
 <br>
 
