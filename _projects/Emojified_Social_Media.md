@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emojified Social Media
-description: 
+description: A d3.js data visualization project on Emoji.
 img: assets/img/esm_nail.png
 redirect: https://github.com/MstXy/Emojified-Social-Media
 importance: 1
