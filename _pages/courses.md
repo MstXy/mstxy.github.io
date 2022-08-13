@@ -33,7 +33,7 @@ CS-UY 4613: Artificial Intelligence
 
 CSCI-SHU 375: Reinforcement Learning
 
-LING-UA 52/DS-UA 203: Machine Learning for Language Understanding (audit).
+LING-UA 52/DS-UA 203: Machine Learning for Language Understanding (audit)
 
 <br>
 
