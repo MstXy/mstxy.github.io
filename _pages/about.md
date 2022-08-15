@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 张成瑜. Making my own future.
+subtitle: 张成瑜. Making my own future. 🎄
 
 profile:
   align: right
@@ -27,4 +27,4 @@ Following my undergraduate experience, I’m likely to pursue a Master/PhD degre
 
 Nice to see you here!
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+🐟
