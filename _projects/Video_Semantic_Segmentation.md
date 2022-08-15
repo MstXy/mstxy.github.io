@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Segmentation
-description: Video Semantic Segmentation on Cityscapes and CamVid.
+description: Research and Implementation of Video Semantic Segmentation, with Possible Improvements.
 img: 
 redirect: /assets/pdf/DURF_report.pdf
 importance: 2
