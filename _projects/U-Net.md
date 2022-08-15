@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Semantic Segmentation on Aerial Drone Images using U-Net
-description: 
+title: Image Segmentation
+description: Semantic Segmentation on Aerial Drone Images using U-Net.
 img: 
 redirect: https://github.com/MstXy/ML_final_project
 importance: 3

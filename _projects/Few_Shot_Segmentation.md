@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Few-Shot Semantic Segmentation
-description: 
+title: Few-Shot Segmentation
+description: Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention.
 img: 
 redirect:
 importance: 1
