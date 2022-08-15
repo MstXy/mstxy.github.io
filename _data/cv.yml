@@ -31,16 +31,16 @@
       description:
         - Make and deploy computer image for school laptops (MacOs and Windows), install and setup applications.
         - Be the inventory system admin, manage and maintain physical and virtual assets.
-        -	Offer technical support to students and professors on computers and audio-video devices.
-        -	Contact vendors and associate with various school departments for daily IMA operations.
-        -	Cooperate with the manager on IMA operation, including the hiring process.
+        - Offer technical support to students and professors on computers and audio-video devices.
+        - Contact vendors and associate with various school departments for daily IMA operations.
+        - Cooperate with the manager on IMA operation, including the hiring process.
 
     - title: Research Assistant 
       institution: Human-Data Interaction Lab, NYU Abu Dhabi
       year: 2021
       description:
         - Design and visualize database algorithms and data structures in D3.js and JavaScript.
-        -	Document code used for visualizations and maintain the latest version on shared GitHub repositories.
+        - Document code used for visualizations and maintain the latest version on shared GitHub repositories.
 
     - title: Lab Assistant
       institution: Interactive Media Arts, NYU Shanghai
