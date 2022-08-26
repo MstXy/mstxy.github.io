@@ -80,6 +80,7 @@ nav: false
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         Tom Clancy's Rainbow Six Siege
+        <br>
         ID: <a href="https://tabstats.com/siege/player/xymeister/21d8657e-b0a2-4856-b80d-207c294e2fef" target="_blank">XyMeister.</a> 
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
