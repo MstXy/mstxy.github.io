@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /interests/
-title: My Interests
+permalink: /fav/
+title: My Fav
 description: Random dump of my favorites.
 nav: false
 ---
@@ -53,13 +53,34 @@ nav: false
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        Formula 1
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        Formula 1 <br>
+        Ferrari <br>
         Charles Leclerc
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/interests/cl.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        Tom Clancy's Rainbow Six Siege
+        ID: <a href="https://tabstats.com/siege/player/xymeister/21d8657e-b0a2-4856-b80d-207c294e2fef" target="_blank">XyMeister</a> 
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/interests/r6.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        PFLS
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/interests/pfls.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        You know who 🧡
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/interests/spinach.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
