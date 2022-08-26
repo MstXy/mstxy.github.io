@@ -4,7 +4,7 @@ title: POP It.
 description: A speculative design on the filter bubble. 
 img: assets/img/pop_it.png
 redirect: https://wp.nyu.edu/williamzhang/2021/09/12/project-01-speculative-design/
-importance: 2
+importance: 3
 category: Miscellaneous
 ---
 

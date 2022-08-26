@@ -3,7 +3,7 @@ layout: page
 title: Capturing the Cosmos
 description: Wandering in the Abu Dhabi deserts.
 img: assets/img/desert/11.jpg
-importance: 1
+importance: 2
 category: Miscellaneous
 ---
 
