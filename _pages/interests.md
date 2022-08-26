@@ -54,6 +54,23 @@ nav: false
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
+        Young Jack <br>
+        满舒克
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/interests/msk.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        Jay Chou <br>
+        周杰伦
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/interests/jay.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-3 mt-3 mt-md-0">
         Formula 1 <br>
         Ferrari <br>
         Charles Leclerc
@@ -63,7 +80,7 @@ nav: false
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         Tom Clancy's Rainbow Six Siege
-        ID: <a href="https://tabstats.com/siege/player/xymeister/21d8657e-b0a2-4856-b80d-207c294e2fef" target="_blank">XyMeister</a> 
+        ID: <a href="https://tabstats.com/siege/player/xymeister/21d8657e-b0a2-4856-b80d-207c294e2fef" target="_blank">XyMeister.</a> 
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/interests/r6.jpg" class="img-fluid rounded z-depth-1" %}
