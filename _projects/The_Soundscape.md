@@ -5,7 +5,7 @@ description: An interactive audio project on stress and stress-relief.
 img: assets/img/the_soundscape.jpg
 redirect: https://github.com/MstXy/The-Soundscape/
 importance: 5
-category: Web-based
+category: Web-based Interactive
 ---
 
 October, 2019

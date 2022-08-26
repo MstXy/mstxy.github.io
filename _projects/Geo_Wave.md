@@ -5,7 +5,7 @@ description: A p5.js & ml5.js interactive project on exploring nature.
 img: assets/img/geo_wave.png
 redirect: https://github.com/MstXy/Geo-Wave
 importance: 8
-category: Web-based
+category: Web-based Interactive
 ---
 
 December, 2021

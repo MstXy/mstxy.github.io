@@ -4,7 +4,7 @@ title: Black Mirrors
 description: An interactive video project on excessive screen time.
 img: assets/img/black_mirrors.png
 importance: 4
-category: Web-based
+category: Web-based Interactive
 ---
 
 November, 2019

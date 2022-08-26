@@ -5,7 +5,7 @@ description: A d3.js data visualization project on Emoji.
 img: assets/img/esm_nail.png
 redirect: https://github.com/MstXy/Emojified-Social-Media
 importance: 1
-category: Web-based
+category: Web-based Interactive
 ---
 
 May, 2020

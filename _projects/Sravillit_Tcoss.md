@@ -5,7 +5,7 @@ description: A GPT-2 & Jukebox & p5.js interactive project on A.I. deceitfulness
 img: assets/img/Sravillit_tcoss.jpg
 redirect: https://github.com/MstXy/Sravillit_Tcoss
 importance: 6
-category: Web-based
+category: Web-based Interactive
 ---
 
 November, 2021

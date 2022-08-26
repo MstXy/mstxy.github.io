@@ -5,7 +5,7 @@ description: A p5.js interactive project on history of music.
 img: assets/img/music_treadmill.png
 redirect: https://github.com/MstXy/Music-Treadmill/
 importance: 2
-category: Web-based
+category: Web-based Interactive
 ---
 
 December, 2019

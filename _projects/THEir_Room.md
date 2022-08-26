@@ -5,7 +5,7 @@ description: A GPT-2 & BigGAN interactive project on future of A.I.
 img: assets/img/their_room.png
 redirect: https://github.com/MstXy/THEir-ROOM
 importance: 7
-category: Web-based
+category: Web-based Interactive
 ---
 
 October, 2021
