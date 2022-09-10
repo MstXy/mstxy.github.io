@@ -8,6 +8,6 @@ children:
     - title: my favs
       permalink: /fav/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: blog
+      permalink: /blog/
 ---

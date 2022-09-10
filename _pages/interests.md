@@ -90,7 +90,7 @@ nav: false
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
-        PFLS
+        Pudong Foreign Language School
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/interests/pfls.jpg" class="img-fluid rounded z-depth-1" %}
