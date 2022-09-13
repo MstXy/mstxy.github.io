@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: fun
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: my favs
-      permalink: /fav/
-    - title: divider
-    - title: blog
-      permalink: /blog/
+    - title: fun
+      permalink: /fun/
+    # - title: divider
+    # - title: blog
+    #   permalink: /blog/
 ---

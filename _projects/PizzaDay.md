@@ -5,7 +5,7 @@ description: A toy designed using gear & crank mechanisms
 img: assets/img/pizzaday.jpg
 redirect: https://wp.nyu.edu/williamzhang/2021/04/14/week-11-project-03-toy-mechanisms/
 importance: 1
-category: Miscellaneous
+category: Fun
 ---
 
 April, 2021
