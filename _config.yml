@@ -222,8 +222,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Chengyu
-  first_name: [Zhang, Z.]
+  last_name: Zhang
+  first_name: [Chengyu, C.]
 
   style: apa
   locale: en
