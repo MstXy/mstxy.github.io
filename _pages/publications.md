@@ -9,10 +9,6 @@ nav_order: 1
 ---
 
 
-<h1>UNDER CONSTRUCTION</h1>
-
-below is sample.
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
