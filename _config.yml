@@ -225,7 +225,7 @@ scholar:
   last_name: Chengyu
   first_name: [Zhang, Z.]
 
-  style: acm
+  style: apa
   locale: en
 
   source: /_bibliography/
