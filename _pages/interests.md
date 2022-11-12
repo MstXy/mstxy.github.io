@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fav/
+permalink: /fun/
 title: My Fav
 description: Random dump of my favorites.
 nav: false
