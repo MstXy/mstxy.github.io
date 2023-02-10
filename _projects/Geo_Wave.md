@@ -4,7 +4,7 @@ title: Geo Wave
 description: A p5.js & ml5.js interactive project on exploring nature. 
 img: assets/img/geo_wave.png
 redirect: https://github.com/MstXy/Geo-Wave
-importance: 8
+importance: 9
 category: Web-based Interactive
 ---
 

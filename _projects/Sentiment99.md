@@ -4,7 +4,7 @@ title: Sentiment .99
 description: A ml5.js interactive project on ethics of A.I. 
 img: assets/img/sentiment99.png
 redirect: https://github.com/MstXy/Sentiment.99
-importance: 3
+importance: 4
 category: Web-based Interactive
 ---
 

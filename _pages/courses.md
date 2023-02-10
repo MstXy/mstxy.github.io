@@ -37,7 +37,7 @@ LING-UA 52/DS-UA 203: Machine Learning for Language Understanding (audit)
 
 <br>
 
-SOCSC-UH 3220:	Econometrics
+SOCSC-UH 3220: Econometrics
 
 <br>
 
@@ -57,6 +57,8 @@ IM-UH 2318: Decoding Nature
 
 IM-UH 3312:	A.rt I.ntel
 
+INTM-SHU 247: Creative Game Design and Development
+
 <br>
 
 ### General
@@ -70,5 +72,9 @@ BUSOR-UH 1009: Ethics, Technology, Business
 PSYCH-UA 1: Intro to Psychology
 
 CCSF-SHU 123: Contemporary Chinese Political Thought
+
+GCHN-SHU 283: Reading&Viewing Modern China
+
+BUSF-SHU 5：Principle of Finance (Non-majors)
 
 <br>

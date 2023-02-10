@@ -17,7 +17,7 @@
       description:
         - "First Major: Data Science (Concentration in Artificial Intelligence)"
         - "Second Major: Interactive Media Arts"
-        - "GPA: 3.959/4.0"
+        - "GPA: 3.965/4.0"
     - title: High School
       institution: Pudong Foreign Language School, Shanghai, China
       year: 2012 - 2019
@@ -25,6 +25,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Artificial Intelligence Business Analyst
+      institution: Yitu Technology
+      year: 2022 - Now
+      description:
+        - Collect, process and analyze business data, assist in artificial intelligence project management.
+        - Research the front-edge industrial field of computer vision, and artificial intelligence ethics and regulations.
+
+    - title: Computer Vision Research Assistant
+      institution: Professor Li Guo, NYU Shanghai
+      year: 2022 - Now
+      description:
+        - Conduct individual and teamed research in the field of computer vision.
+
     - title: Lab Technician
       institution: Interactive Media Arts, NYU Shanghai
       year: 2020 - Now
@@ -34,12 +47,6 @@
         - Offer technical support to students and professors on computers and audio-video devices.
         - Contact vendors and associate with various school departments for daily IMA operations.
         - Cooperate with the manager on IMA operation, including the hiring process.
-
-    - title: Computer Vision Research Assistant
-      institution: Professor Li Guo, NYU Shanghai
-      year: 2022 - Now
-      description:
-        - Conduct individual and teamed research in the field of computer vision.
 
     - title: Research Assistant 
       institution: Human-Data Interaction Lab, NYU Abu Dhabi

@@ -4,7 +4,7 @@ title: Image Segmentation
 description: Semantic Segmentation on Aerial Drone Images using U-Net.
 img: 
 redirect: https://github.com/MstXy/ML_final_project
-importance: 3
+importance: 4
 category: Computer Vision
 ---
 

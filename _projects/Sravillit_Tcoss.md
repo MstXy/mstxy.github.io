@@ -4,7 +4,7 @@ title: Sravillit Tcoss
 description: A GPT-2 & Jukebox & p5.js interactive project on A.I. deceitfulness. 
 img: assets/img/Sravillit_tcoss.jpg
 redirect: https://github.com/MstXy/Sravillit_Tcoss
-importance: 6
+importance: 7
 category: Web-based Interactive
 ---
 

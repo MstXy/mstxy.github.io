@@ -4,7 +4,7 @@ title: Video Segmentation
 description: Research and Implementation of Video Semantic Segmentation, with Possible Improvements.
 img: 
 redirect: /assets/pdf/DURF_report.pdf
-importance: 2
+importance: 3
 category: Computer Vision
 ---
 
