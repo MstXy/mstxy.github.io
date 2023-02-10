@@ -23,6 +23,8 @@ I find passion in a variety of things. I am an undergraduate research assistant 
 
 Apart from that, I am also a Lab Technician in [IMA Department](https://ima.shanghai.nyu.edu/). My job mainly involves administrative works such as inventory system management, budget arrangement and human resources assistance; another big part is technicial support on computer and audio-visual equipment for professors and students.
 
+I am also currently doing an internship at [Yitu Technology](https://www.yitutech.com/)'s business department, conducting business analysis tasks such as producing knowledge graph using NLP tools (CasRel), data processing and data scraping, as well as tasks of writing, assessing and modifying ISO standards of industrial artificial intelligence. 
+
 Following my undergraduate experience, I’m likely to pursue a Master/PhD degree in Computer Science & Artificial Intelligence.
 
 Nice to see you here!
