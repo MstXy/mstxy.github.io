@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generalized Few-Shot Segmentation
-description: Towards Generalized Few-shot Segmentation: On Contrastive Learning and Background Information Modeling.
+description: Towards Generalized Few-shot Segmentation, On Contrastive Learning and Background Information Modeling.
 img: 
 redirect:
 importance: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Does Vaccination Work?
-description: A d3.js data visualization project based on Covid cases, vaccinated population and vaccination policies.
+description: A d3.js data visualization based on Covid cases & policy.
 img: assets/img/does_vaccination_work.png
 redirect: https://github.com/MstXy/Does-Vaccination-Work
 importance: 2
