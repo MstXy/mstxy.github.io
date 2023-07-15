@@ -12,11 +12,11 @@
   type: time_table
   contents:
     - title: Master of Engineering
-        institution: Univeristy of California, Berkeley, CA
-        year: 2023 - 2024
-        description:
-          - "Department: Electrical Engineering and Computer Science"
-          - "Major: Computer Science (Data Science and Systems)"
+      institution: Univeristy of California, Berkeley, CA
+      year: 2023 - 2024
+      description:
+        - "Department: Electrical Engineering and Computer Science"
+        - "Major: Computer Science (Data Science and Systems)"
     - title: "Bachelor of Science (Honors)"
       institution: New York University Shanghai, Shanghai, China
       year: 2019 - 2023
