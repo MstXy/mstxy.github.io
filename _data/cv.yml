@@ -93,13 +93,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - yearL 2023
+    - year: 2023
       items:
         - Summa cum laude
         - Major Honor in Data Science
         - NYU Shanghai Excellence Award
         - Dean's List for Academic Year
-
     - year: 2022
       items: 
         - Dean's List for Academic Year
@@ -116,13 +115,12 @@
       items:
         - NYU Shanghai Global Elite Scholarship
 
-
 - title: Skills
   type: nested_list
   contents:
     - title: Programming
       items: 
-        - Python, PyTorch, HTML, CSS, JavaScript, R, React.js, d3.js, p5.js, MySQL, Swift, Julia
+        - Python, PyTorch, HTML, CSS, JavaScript, R, React.js, d3.js, p5.js, MySQL, Swift, Julia.
     - title: Documenting
       items:
         - Microsoft Office suite, Google Sheets, Google Slides, Google Docs.
