@@ -17,15 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! This is William Zhang, a senior studying at [NYU Shanghai](https://shanghai.nyu.edu/), class of 2023. I am currently taking a double major in Data Science (with concentration in Artificial Intelligence) and Interactive Media Arts. 
+Hi! This is William Zhang, an incoming master of engineering student at [UC Berkeley EECS](https://eecs.berkeley.edu/), under Data Science and System track. My undergraduate degree was taken at [NYU Shanghai](https://shanghai.nyu.edu/), with a dual Bachelor of Science degree in Honors Data Science (Artificial Intelligence concentration) and Interactive Media Arts.
 
-I find passion in a variety of things. I am an undergraduate research assistant mentored by [Prof.Guo Li](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). My research interest is mainly in `Computer Vision`, having past experience with image/video semantic segmentation and few-shot segmentation. 
+I find passion in a variety of things. Currently, I am doing an internship at *DiFint Co., Ltd.*, working with `SLAM` algorithm research and development. The tasks mainly involve depth, optical flow, and pose estimation with deep CNN and ViTs. Moreover, we decode brain signals (fMRI) with diffusion models.
 
-Apart from that, I am also a Lab Technician in [IMA Department](https://ima.shanghai.nyu.edu/). My job mainly involves administrative works such as inventory system management, budget arrangement and human resources assistance; another big part is technicial support on computer and audio-visual equipment for professors and students.
+In my undergraduate years, I was a `Computer Vision` research assistant mentored by [Prof.Guo Li](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). My research is mainly in image/video semantic segmentation and few-shot segmentation, object detection, as well as transfer learning.
 
-I am also currently doing an internship at [Yitu Technology](https://www.yitutech.com/)'s business department, conducting business analysis tasks such as producing knowledge graph using NLP tools (CasRel), data processing and data scraping, as well as tasks of writing, assessing and modifying ISO standards of industrial artificial intelligence. 
+Apart from that, I was a Lab Technician in [IMA Department](https://ima.shanghai.nyu.edu/) for four years. My job mainly involves administrative works such as inventory system management, budget arrangement and human resources assistance; another big part is technical support on computers and audio-visual equipment for professors and students. as well as classroom planning.
 
-Following my undergraduate experience, I’m likely to pursue a Master/PhD degree in Computer Science & Artificial Intelligence.
+I also do some software development and front-end back-end development, please see below for more information.
 
 Nice to see you here!
 
