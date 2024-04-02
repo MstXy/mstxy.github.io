@@ -14,7 +14,7 @@ August, 2022
 
 **Few-Shot Semantic Segmentation**
 
-Please see <a href="/assets/pdf/CVPR_Boosting_Few-Shot_Segmentation_via_Instance-Aware_Data_Augmentation_and_Local_Consensus_Guided_Cross_Attention.pdf" target="_blank">pdf report</a> for more details.
+Please see <a href="https://arxiv.org/abs/2401.09866" target="_blank">arXiv paper</a> for more details.
 
 Thank you!
 

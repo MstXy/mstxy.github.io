@@ -7,6 +7,40 @@ nav: true
 nav_order: 5
 ---
 
+
+## Graduate (UC Berkeley)
+
+### Computer Science & Machine Learning
+
+COMPSCI 282A: Deep Learning
+
+COMPSCI 289A: Machine Learning
+
+COMPSCI C280: Computer Vision
+
+COMPSCI 294: Experimental Design for Machine Learning on Multimedia Data
+
+ELENG 290: Advanced Topics: In-Context Learning
+
+### Business & Leadership
+
+ENGIN 270A: Organizational Behavior for Engineers
+
+ENGIN 270B: R&D Technology Management & Ethics
+
+ENGIN 270C: Teaming & Project Management
+
+ENGIN 270J: Industry Analysis for Engineering Leaders
+
+ENGIN 270K: Coaching for High Performance Teams
+
+ENGIN 270N: Innovation Management
+
+ENGIN 295: Communications for Engineering Leaders
+
+
+## Undergraduate (NYU)
+
 ### Data Science
 
 MATH-SHU 131: Calculus
