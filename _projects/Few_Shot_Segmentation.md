@@ -4,7 +4,7 @@ title: Few-Shot Segmentation
 description: Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention.
 img: 
 redirect:
-importance: 1
+importance: 2
 category: Computer Vision
 ---
 

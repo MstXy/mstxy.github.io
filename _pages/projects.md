@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 2
-display_categories: [Computer Vision, Product Design, Web-based Interactive, Algorithm Visualization, Fun]
+display_categories: [Computer Vision, General AI Research, Product Design, Web-based Interactive, Algorithm Visualization, Fun]
 horizontal: false
 ---
 

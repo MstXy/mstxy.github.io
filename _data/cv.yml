@@ -31,13 +31,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: SLAM Algorithm Research Intern
+    - title: Autonomous Driving Algorithm Research Intern
       institution: DiFint Technology
-      year: 2023 - Now
+      year: 2023
       description:
-        - Develop, experiment SLAM algorithms on GPU server in unsupervised monocular depth estimation, using multi-task training and unified backbones (ViT and ResNet), paper submitted to IEEE ICRA 2024.
+        - Develop perception algorithms on Linux GPU server in unsupervised monocular depth estimation, using multi-task training and unified backbones (ViT and CNNs), paper to be submitted to IEEE ICRA 2024.
         - Develop interactive SLAM datasets motion mask self-annotation based on Segment Anything and Gradio.
-        - Read and present literature on autonomous driving and neuromorphic computing SOTA algorithms. 
+        - Research and present literature on autonomous driving and neuromorphic computing SOTA algorithms.
 
     - title: Artificial Intelligence Business Analyst
       institution: Yitu Technology
@@ -52,23 +52,23 @@
       year: 2022 - 2023
       description:
         - Conduct individual and teamed research in image/video semantic segmentation, object detection, meta/low-shot learning, transfer learning and image classification.
+        - Design algorithms and run experiments on Linux GPU servers, do ablation studies and conclude to papers.
+        - Research, conclude, share and experiments different SOTA algorithms in computer vision.
 
     - title: Lab Technician
       institution: Interactive Media Arts, NYU Shanghai
       year: 2019 - 2023
       description:
-        - Manage computers (MacOS and Windows) using MDM software (Jamf).
+        - Deploy MDM (Jamf) to manage MacOS and Windows computers, manage physical and virtual assets.
         - Provide audio-video system solution for classrooms, with layout design and equipment quotation.
-        - Be the inventory system admin, manage and maintain physical and virtual assets.
-        - Offer technical support to students and professors on computers and audio-video devices.
-        - Cooperate with the manager on IMA operation, including the hiring process and budget analysis.
+        - Offer technical support to student and faculty, including MCUs, sensors, computers and audio-video devices.
+        - Cooperate with the manager on IMA operation, including the hiring process and budget analysis using Excel.
 
     - title: Research Assistant 
       institution: Human-Data Interaction Lab, NYU Abu Dhabi
       year: 2021
       description:
-        - Design and visualize database algorithms and data structures (including extendible hashing, linear hashing and bloom filter) in D3.js and JavaScript.
-        - Document code used for visualizations and maintain the latest version on shared GitHub repositories.
+        - Design and visualize database algorithms and data structures (including extendible hashing, linear hashing and bloom filter) in D3.js and JavaScript. Document and maintain the versions on shared GitHub repository
 
 - title: Activities
   type: time_table
@@ -88,7 +88,7 @@
     - title: Assistant Director
       institution: Weland, Beijing, China
       year: 2019
-      description: Participated in WeMUN EXPO 2019 UNDP conference as an Assistant Director, hosting and making record of the conference for 3 days and a half.
+      description: Participated in WeMUN EXPO 2019 UNDP conference on the topic of accessible water as an Assistant Director, directing and recording the conference for 3 days and a half.
 
 - title: Honors and Awards
   type: time_table
@@ -120,7 +120,7 @@
   contents:
     - title: Programming
       items: 
-        - Python, PyTorch, HTML, CSS, JavaScript, R, React.js, d3.js, p5.js, MySQL, Swift, Julia.
+        - Python, PyTorch, HTML, CSS, JavaScript, C#, C++, R, React.js, d3.js, p5.js, MySQL, Swift, Julia.
     - title: Documenting
       items:
         - Microsoft Office suite, Google Sheets, Google Slides, Google Docs.

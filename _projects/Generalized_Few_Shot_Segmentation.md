@@ -4,7 +4,7 @@ title: Generalized Few-Shot Segmentation
 description: Towards Generalized Few-shot Segmentation, On Contrastive Learning and Background Information Modeling.
 img: 
 redirect:
-importance: 2
+importance: 3
 category: Computer Vision
 ---
 

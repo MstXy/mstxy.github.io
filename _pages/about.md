@@ -17,9 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! This is William Zhang, an incoming master of engineering student at [UC Berkeley EECS](https://eecs.berkeley.edu/), under Data Science and System track. My undergraduate degree was taken at [NYU Shanghai](https://shanghai.nyu.edu/), with a dual Bachelor of Science degree in Honors Data Science (Artificial Intelligence concentration) and Interactive Media Arts.
+Hi! This is William Zhang, a current Master of Engineering student at [UC Berkeley EECS](https://eecs.berkeley.edu/), under Data Science and System track. My undergraduate degree was taken at [NYU Shanghai](https://shanghai.nyu.edu/), with a dual Bachelor of Science degree in Data Science (Artificial Intelligence concentration, Honors) and Interactive Media Arts.
 
-I find passion in a variety of things. Currently, I am doing an internship at *DiFint Co., Ltd.*, working with `SLAM` algorithm research and development. The tasks mainly involve depth, optical flow, and pose estimation with deep CNN and ViTs. Moreover, we decode brain signals (fMRI) with diffusion models.
+I find passion in a variety of things. Currently, I am doing research with [Berkeley VIP Lab](https://www-video.eecs.berkeley.edu/), under the supervision of [Prof. Avideh Zakhor](https://www-video.eecs.berkeley.edu/~avz/). Our research focus on `neural reconstruction` with vision-based drones and robots.
+
+Previously, I was doing an internship at *DiFint Co., Ltd.*, working with `SLAM/Perception` algorithm research and development. The tasks mainly involve depth, optical flow, and pose estimation with deep CNN and ViTs.
 
 In my undergraduate years, I was a `Computer Vision` research assistant mentored by [Prof.Guo Li](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). My research is mainly in image/video semantic segmentation and few-shot segmentation, object detection, as well as transfer learning.
 
